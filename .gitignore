@@ -1,0 +1,29 @@
+*.log
+*.tmp
+node_modules/
+.DS_Store
+.macOS
+.win
+.tests
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+dist/
+build/
+*.sqlite3
+*.ipynb_checkpoints/
+# Ignore coverage files
+.coverage
+htmlcov/
+# Ignore test artifact files
+results/
+# Ignore local environment files
+.localenv
+.env.local
+# End Generation Here
+

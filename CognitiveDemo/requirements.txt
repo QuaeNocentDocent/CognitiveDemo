@@ -1,0 +1,9 @@
+streamlit
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
+azure-cognitiveservices-formrecognizer
+pillow  # For image handling, if you need it
+numpy   # Commonly used for numerical operations
+sounddevice # For audio recording
+python-dotenv # For loading variables from .env
+azure-ai-vision-imageanalysis
